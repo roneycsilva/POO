@@ -11,8 +11,8 @@
 
 ## Script
 
-![atividade](https://github.com/user-attachments/assets/1a1e4c4b-b0df-4aa9-b861-842115eba93a)
 
+![atividade](https://github.com/user-attachments/assets/ff88bdc0-21cd-4ccd-99b2-7546f9c93ac6)
 
 ```java
 import java.util.Scanner;
