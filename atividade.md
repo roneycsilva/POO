@@ -11,10 +11,16 @@
 
 ## Script
 
+![atividade](https://github.com/user-attachments/assets/eed25463-5499-4377-aa96-3f98dc4189e9)
 
-![atividade](https://github.com/user-attachments/assets/ff88bdc0-21cd-4ccd-99b2-7546f9c93ac6)
+- Consulta realizada em fóruns e na internet para pesquisa e esclarecimento de dúvidas.
+
+
+
 
 ```java
+package com.example.carro;
+
 import java.util.Scanner;
 
 class Carro {
@@ -58,4 +64,5 @@ public class Main {
         scanner.close();
     }
 }
+
 
